@@ -7,7 +7,7 @@ public class FIFOCache {
     }
 
     public String getNextEviction() {
-        return ""
+        return "";
     }
 
     public int size() {
